@@ -1,6 +1,6 @@
 LICENSE PLATE RECOGNITION
 
-
+result: output.avi
 ![ss](https://github.com/user-attachments/assets/cacba170-a6be-4c04-9063-5a8428d503aa)
 
 
